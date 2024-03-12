@@ -1,11 +1,4 @@
-# Username and password authentication template for Next 14
-
-## Youtube tutorial - username, password authentication
-https://www.youtube.com/watch?v=JIIy7VkiTqU
-
-## Youtube tutorial - email, password with email verification
-
-https://www.youtube.com/watch?v=2sHsP_8YLHA&t=1s
+# Next.js, TypeScript, Tailwind CSS, Shadcn UI, PostgreSQL, Drizzle ORM, Lucia Auth
 
 - Next 14
 - Lucia Auth Package
